@@ -1,6 +1,7 @@
 mod luhn;
 mod expressioni_evaluation;
+mod library;
 
 fn main() {
-    println!("Hello, world!");
+    library::lib_test()
 }
